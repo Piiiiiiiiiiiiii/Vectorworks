@@ -1,0 +1,147 @@
+ID-EF-15-30-Remediation, repair and renovation
+ID-EF-15-30-Demolition
+ID-EF-20-Column and Sheer Wall
+ID-EF-20-Beam
+ID-EF-25-10-Walls
+ID-Ss-25-Curtain walling systems
+ID-Ss-25-Gypsum board partition systems
+ID-Ss-25-Partition System
+ID-Ss-25-Masonry wall systems
+ID-Ss-25-Wall cladding systems
+ID-Ss-25-Acoustic covering systems
+ID-Ss-25-Tiling systems
+ID-EF-25-30-Openings
+ID-EF-25-30-25-Doors
+ID-EF-25-30-25-Doors Trim and Jamb
+ID-PR-30-59-23-Door Frame and Leaves
+ID-PR-30-59-23-Door Threshold
+ID-PR-30-59-23-Door Swing
+ID-PR-30-59-23-Door Glazing
+ID-Pr-30-36 -Hardware products
+ID-EF-25-30-95-Vents
+ID-EF-25-30-97-Windows
+ID-PR-30-59-98-Windows Jamb and Sash
+ID-PR-30-59-98-Windows Trim
+ID-PR-30-59-98-Windows Stool and Apron
+ID-EF-30-10-Roofs
+ID-EF-30-20-Floors Boundry
+ID-EF-30-20-Floors Hatch
+ID-EF-30-25-Ceilings and soffits
+ID-EF-30-25-Ceilings and soffits Trim
+ID-EF-30-25-Ceilings Htach
+ID-EF-35-10-Stairs
+ID-EF-35-20-Ramps
+ID-Ss-40-10-Signage systems
+ID-Ss-40-10-30-30-Fire signage systems
+ID-Ss-40-15-25-Catering FF&E systems
+ID-Ss-40-15-35-General FF&E systems
+ID-Ss-40-15-35-19-Curtain and blind systems
+ID-Ss-40-15-35-35-General fixtures systems
+ID-Ss-40-15-35-35-General Storage system
+ID-Ss-40-15-44-Joinery Hung System
+ID-Ss-40-15-44-Joinery Hung System Detail
+ID-Ss-40-15-44-Joinery Half Height System
+ID-Ss-40-15-44-Joinery Half Height System Detail
+ID-Ss-40-15-44-Joinery Full Height System
+ID-Ss-40-15-44-Joinery Full Height System Detail
+ID-Ss-40-15-44-Joinery Built-in Furniture System
+ID-Ss-40-15-44-Joinery Built-in Furniture System Detail
+ID-Ss-40-15-58-Office equipment systems
+ID-Ss-40-15-70-Sanitary appliances and FF&E systems
+ID-Ss-40-20-01-60-Office FF&E systems
+ID-Ss-40-20-30-28-External furniture systems
+ID-Ss-40-25-05-Artworks/Logo
+ID-EF-37-50-Tunnel and shaftes，chimneys，vessels
+ID-EF-45-Flora and fauna
+ID-EF-50-20-Waterwaste collection
+ID-EF-55-70-Water supply
+ID-EF-55-70-38-Hot water supply
+ID-EF-55-70-38-Cold water supply
+ID-EF-65-40-Ventilation
+ID-EF-65-40-33-General space ventilation
+ID-EF-65-80-Air conditioning
+ID-EF-65-80-Check Point
+ID-EF-70-10-Electrical power generation
+ID-EF-70-30-Electricity distribution and transmission
+ID-EF-70-30-Electricity Switch/Control Panel
+ID-EF-70-30-10-Cable
+ID-EF-70-30-10-Eletricity Distribution and transmission
+ID-EF-70-30-45-Lighting electricity distribution
+ID-EF-70-30-90-Conductor rail traction power distribution
+ID-EF-70-80-General Lighting
+ID-EF-70-80-Floor Lighting
+ID-EF-70-80-Sconce Lighting
+ID-EF-75-10-Communication
+ID-EF-75-10-21-Data distribution and /Net
+ID-EF-75-10-70-Radio distribution
+ID-EF-75-40-Security
+ID-EF-75-40-02-Access control
+ID-EF-75-40-53-Monitoring
+ID-EF-75-40-73-Security screening
+ID-EF-75-40-75-Security detection and alarms
+ID-EF-75-50-28-Fire and smoke detection and alarms
+ID-EF-75-50-33-Gas detection and alarms
+Z-Zz-10-20-Drawing frame
+Z-Zz-10-20-45-Logo
+Z-Zz-10-70-Revisions
+Z-Zz-10-70-05-Annotation
+Z-Zz-10-70-20-Clouds and notations
+Z-Zz-10-80-Status stamps
+Z-Zz-20-10-Annotation
+Z-Zz-20-10-40-Keynotes
+Z-Zz-20-10-41-SheetNotes
+Z-Zz-20-10-45-Labels
+Z-Zz-20-10-50-Leaders
+Z-Zz-20-10-55-Notes
+Z-Zz-20-10-70-Reference
+Z-Zz-20-10-85-Tags
+Z-Zz-20-10-90-Text
+Z-Zz-20-20-Dimensions
+Z-Zz-20-30-50-Masks
+Z-Zz-20-30-95-Wipeouts
+Z-Zz-20-40-05-Outline
+Z-Zz-20-40-35-Hatching
+Z-Zz-20-40-80-AreaFill
+Z-Zz-20-70-Redlining
+Z-Zz-20-70-20-Comments
+Z-Zz-20-80-50-Legends
+Z-Zz-20-80-55-North point
+Z-Zz-20-90-Title annotation
+Z-Zz-30-30-External references
+Z-Zz-30-40-Images
+Z-Zz-30-90-Tables and schedules
+Z-Zz-35-20-Centrelines
+Z-Zz-35-40-Gridlines
+Z-Zz-35-40-20-Ceiling grid
+Z-Zz-35-40-30-Ceiling lighting grid
+Z-Zz-35-40-80-Structural grid
+Z-Zz-35-80-Survey control points
+Z-Zz-35-80-55-Bench mark
+Z-Zz-35-80-55-Gird Bubble and Text
+Z-Zz-40-15-Contours
+Z-Zz-40-15-50-Major contours
+Z-Zz-40-15-55-Minor contours
+Z-Zz-40-20-Cuttings and embankment indicators
+Z-Zz-40-50-Level indicators
+Z-Zz-50-10-Boundaries
+Z-Zz-50-95-Zones
+Z-Zz-60-20-Detail call ups
+Z-Zz-60-20-10-Elevation Height Mark
+Z-Zz-60-45-20-Datum
+Z-Zz-60-50-10-Break marks
+Z-Zz-60-50-30-Interior Elevation marks
+Z-Zz-60-50-80-Section marks
+Z-Zz-60-50-85-Span direction markers
+Z-Zz-60-50-90-Void and opening markers
+Z-Zz-60-55-Match lines
+Z-Zz-70-20-Viewports
+Z-Zz-70-20-Viewports Countour
+Z-Zz-80-45-20-Thin
+Z-Zz-80-45-30-Light
+Z-Zz-80-45-40-Medium
+Z-Zz-80-45-50-Heavy
+Z-Zz-80-45-60-Profile
+Z-Zz-80-60-People
+Z-Zz-80-85-Trees and planting
+Z-Zz-90-30-External reference information
+Z-Zz-90-70-Readme
